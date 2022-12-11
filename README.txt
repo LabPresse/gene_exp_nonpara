@@ -1,5 +1,7 @@
 Our method can be run on any machine capable of running MATLAB2021a with the Parallel Computing Toolbox. Instalation is trivial. Simply place the 'gene_exp_nonpara' folder in any directory accesible to your MATLAB installation.
 
+Cite this code with Zenodo [![DOI](https://zenodo.org/badge/554428220.svg)](https://zenodo.org/badge/latestdoi/554428220)
+
 
 
 This repository contains a folder, './Datasets', which contains all the data files that were used in the work.
